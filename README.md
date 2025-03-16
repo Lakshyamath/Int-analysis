@@ -3,7 +3,7 @@ Intermediate analysis is the second course on analysis for quantitative economic
 
 In the first fold, we discuss sequence & series of functions and Weierstrauss approximation theorem with Power serires & Fourier series, then we discuss Riemann integration.
 
-In the second fold , we discuss calculus of several variables. In last fold, we discuss vector calculus.
+In the second fold , we discuss calculus of several variables. In the last fold, we discuss vector calculus.
 
 Lecture-02 (10-01-2025): Convergency in sequence of functions.
 
